@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reddit AI Tools"
+  short_description: "Today's top Reddit posts about new AI tools"
+  default_prompt: "Find today's top Reddit stories about newly announced AI tools and summarize each with its Reddit link."
